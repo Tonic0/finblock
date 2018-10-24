@@ -1,2 +1,2 @@
 # finblock
-Finnish Adblock
+Finnish Adblock without political censorship.
