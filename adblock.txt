@@ -879,75 +879,9 @@ kaleva.fi##DIV[id="kaleva-cookie-consent"]
 @@/pixel.gif$domain=xhamster.com
 @@||uusi.op.fi/$document
 
+
 ! Wiltteri Legacy
 
-! -------------------- general-block.txt -------------------- !
-/mainokset.
-/mainokset/*
-/mainokset_
-/mainos.
-/mainos/*
-/mainos_
-/mainosbanneri.
-/mainosbanneri/*
-/mainosbanneri_
-/mainosbannerit.
-/mainosbannerit/*
-/mainosbannerit_
-/mainoskaruselli.
-/mainoskaruselli/*
-/mainoskaruselli_
-/sponsorit.
-/sponsorit/*
-/sponsorit_
-/yhteistyokumppanit.
-/yhteistyokumppanit/*
-/yhteistyokumppanit_
-/yhteistyossa.
-/yhteistyossa/*
-/yhteistyossa_
-_mainos.
-_mainosnappi.
-! -------------------- general-hide.txt -------------------- !
-###keskimainos
-###mainokset
-###mainokset_oikea
-###mainokset_vasen
-###mainokset_yla
-###mainos
-###mainosbanneri
-###mainosbannerit
-###mainoskaruselli
-###mainoslaatikko
-###mainospaikka
-###mainostila
-###sponsori
-###sponsorit
-###yhteistyokaruselli
-###yhteistyokumppanit
-###yhteistyossa
-###ylamainokset
-###ylamainos
-##.keskimainos
-##.mainokset
-##.mainokset_oikea
-##.mainokset_vasen
-##.mainokset_yla
-##.mainos
-##.mainosbanneri
-##.mainosbannerit
-##.mainoskaruselli
-##.mainoslaatikko
-##.mainospaikka
-##.mainostila
-##.sponsori
-##.sponsorit
-##.yhteistyokaruselli
-##.yhteistyokumppanit
-##.yhteistyossa
-##.ylamainokset
-##.ylamainos
-! -------------------- specific-block.txt -------------------- !
 ||autolomat.fi^*/bannerit/
 ||autoluettelo.fi/aka/news/*banner
 ||avoimet.com/javascript/*_suomi.js
@@ -4492,6 +4426,7 @@ seksitreffit.fi##table[width="1024"][bgcolor="#d31517"]
 ||sestatic.net^*/banner-iltasanomat.html$subdocument
 ||snstatic.fi^*/ads/
 ||snstatic.fi^*/sanoma_bt.js
+
 ! -------------------- whitelist-block.txt -------------------- !
 @@||www.op.fi^*/mainokset/
 ! Foxplay.fi
@@ -4502,6 +4437,7 @@ seksitreffit.fi##table[width="1024"][bgcolor="#d31517"]
 ! Ruutu.fi
 @@||adtech.de/?adrawdata/$object-subrequest,third-party,domain=groovefm.fi|hs.fi|iltasanomat.fi|istv.fi|jimtv.fi|livtv.fi|loop.fi|metrohelsinki.fi|nelonen.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruutu.fi|sykesport.fi
 @@||nelonenmedia.fi^*/logo/$object-subrequest,third-party,domain=groovefm.fi|hs.fi|iltasanomat.fi|istv.fi|jimtv.fi|livtv.fi|loop.fi|metrohelsinki.fi|nelonen.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruutu.fi|sykesport.fi
+
 ! -------------------- whitelist-hide.txt -------------------- !
 tilannehuone.fi#@#.mainos
 lamminveto.com#@#.sponsorit
