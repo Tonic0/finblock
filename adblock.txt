@@ -1,6 +1,5 @@
-﻿[Adblock]
+[Adblock]
 ! License: http://unlicense.org/
-
 
 /bannerit/*$domain=~www.karkkainen.com|~www.unisport.fi|~unisport.fi|~f9.fi
 /pixel.gif$domain=~www.damnlol.com
@@ -256,7 +255,6 @@ hs.fi##div[id="christmas-campaign-element"]
 hs.fi##div[id="oikotie_asunnot_box_iframe"]
 hs.fi##div[id="multi-ad-area"]
 hs.fi##div[id="hsonfb-links"]
-hs.fi##div[class="tracking-pixel"]
 hs.fi/tilasto/artikkeli
 hs.fi/sivulaskuri
 hs.fi/stats
@@ -344,7 +342,6 @@ is.fi##DIV[data-html-asset-id="82"]
 is.fi##DIV[data-html-asset-id="943"]
 is.fi##DIV[data-html-asset-id="109"]
 is.fi##table[id="kumppaneiden-tarjoukset"]
-is.fi##iframe[data-original*="vg.is.fi"]
 is.fi##iframe[data-original*="kampanjat/promo/nostot"]
 is.fi##DIV[class="supersaa-widget-container"]
 is.fi##article[class*="is-advertorial"]
@@ -758,7 +755,6 @@ giosg.com$domain=etuovi.com
 ||pixel.mathtag.com
 ||polarmobile.com
 ||rubiconproject.com$third-party
-||sn.sanoma.fi/js/sccm/sccm.js
 ||nova.collect.igodigital.com/*/track_page
 ||nativeads.com$third-party
 ||spotxchange.com
@@ -3142,7 +3138,6 @@ murha.info###vil_main + div + div#vil_custom2
 peliplaza.fi###visa_bannerit
 digitoday.fi###vmmFooter
 naisyrittajyyskeskus.fi###vvnavi + div
-pelaajalehti.com###wallpaper
 muskleforum.com###widgetlist_column1 > li > .cms_widget
 muskleforum.com###widgetlist_column2
 muskleforum.com###widgetlist_column3 > li > div:not(.activitystream)
@@ -4417,7 +4412,6 @@ seksitreffit.fi##table[width="1024"][bgcolor="#d31517"]
 ||tassa.fi^$third-party
 ||tracking*.euroads.fi^$third-party
 ||userneeds.dk^$third-party
-! Sanoma
 ||iltasanomat.fi/promo/$subdocument
 ||iltasanomat.fi^*/uutisboksi/$subdocument
 ||meidanperhe.fi^*/promobox/$subdocument
